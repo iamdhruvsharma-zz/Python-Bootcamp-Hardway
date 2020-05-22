@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  3 20:03:24 2020
-
-@author: DXT
-"""
-
 name = 'Mr. X'
 age = 35 # not a lie
 height = 74 # inches
