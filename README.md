@@ -5,4 +5,4 @@ Based on the book (Learn Python 3 the Hard Way by Zed A. Shaw) https://learncode
 
 1. OOPS Concepts
 2. Basic INPUT - OUTPUT
-3. Use MS Windows Powershell for running the scripts and try to avoid using an IDE
+3. Use MS Windows Powershell for running the scripts and try to avoid using an IDE (use Subline Text)
