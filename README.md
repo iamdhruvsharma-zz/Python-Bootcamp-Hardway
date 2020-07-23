@@ -8,4 +8,4 @@ Based on the book (Learn Python 3 the Hard Way by Zed A. Shaw) https://learncode
 3. Use MS Windows Powershell for running the scripts and try to avoid using an IDE (use Sublime Text)
 
 More will be added soon! </br>
-Deadline: 1st August 2020.
+<b> Deadline: 1st August 2020. </b>
