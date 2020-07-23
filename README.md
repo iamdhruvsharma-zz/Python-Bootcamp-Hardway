@@ -7,5 +7,5 @@ Based on the book (Learn Python 3 the Hard Way by Zed A. Shaw) https://learncode
 2. Basic INPUT - OUTPUT
 3. Use MS Windows Powershell for running the scripts and try to avoid using an IDE (use Sublime Text)
 
-More will be added soon!
+More will be added soon! </br>
 Deadline:
